@@ -158,11 +158,7 @@ function App() {
                 GitHub
               </a>
             </li>
-            <li>
-              <a href="https://dilna00.github.io/Personal-website/" target="_blank" rel="noreferrer">
-                Portfolio
-              </a>
-            </li>
+           
           </ul>
         </div>
         <div className="hero-photo-wrap">
